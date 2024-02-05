@@ -1,0 +1,29 @@
+{
+ "allow_roles": [
+  {
+   "role": "All"
+  }
+ ],
+ "creation": "2024-02-05 08:20:57.119166",
+ "docstatus": 0,
+ "doctype": "Module Onboarding",
+ "documentation_url": "https://husna.erpgulf.com/app/replacement/view/list",
+ "idx": 0,
+ "is_complete": 0,
+ "modified": "2024-02-05 08:50:32.250943",
+ "modified_by": "Administrator",
+ "module": "Replacement",
+ "name": "Replacement",
+ "owner": "Administrator",
+ "steps": [
+  {
+   "step": "Create an Item"
+  },
+  {
+   "step": "Create Replacement Doc"
+  }
+ ],
+ "subtitle": "Let's Set Up the Replacement Module.",
+ "success_message": "replacement success",
+ "title": "Replacement"
+}

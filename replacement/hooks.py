@@ -226,9 +226,4 @@ app_license = "mit"
 # default_log_clearing_doctypes = {
 #	"Logging DocType Name": 30  # days to retain logs
 # }
-
-
-doctype_js = {
-    "Delivery Note": "public/js/need.js",  # Add the path to your custom JavaScript file
-}
-
+# hooks.py

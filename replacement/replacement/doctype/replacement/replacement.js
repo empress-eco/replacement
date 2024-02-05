@@ -35,11 +35,11 @@ frappe.ui.form.on('Replacement', {
                         if (!r.exc) {
                             // Create a table to display search results
                             var table = '<table class="table table-bordered">';
-                            table += '<thead><tr><th>Searched Item</th><th>Replacements</th></tr></thead>';
+                            table += '<thead><tr><th>Replacements</th></tr></thead>';
                             table += '<tbody>';
                             
                             // Add a row for the searched item
-                            table += '<tr><td>' + r.message.searched_item + '</td><td>';
+                            table += '<tr><td>';
                             
                             // Iterate through replacements and add a row for each
                             r.message.combined_list.forEach(function(replacement) {
@@ -63,3 +63,7 @@ frappe.ui.form.on('Replacement', {
         });
     }
 });
+
+
+
+

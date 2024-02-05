@@ -1,0 +1,20 @@
+{
+ "action": "Go to Page",
+ "creation": "2024-02-05 08:14:20.655473",
+ "docstatus": 0,
+ "doctype": "Onboarding Step",
+ "idx": 0,
+ "is_complete": 0,
+ "is_single": 0,
+ "is_skipped": 0,
+ "modified": "2024-02-05 08:50:25.216226",
+ "modified_by": "Administrator",
+ "name": "Create Replacement Doc",
+ "owner": "Administrator",
+ "path": "app/replacement/new-replacement",
+ "reference_document": "Replacement",
+ "show_form_tour": 0,
+ "show_full_form": 0,
+ "title": "Create Replacement Doc",
+ "validate_action": 1
+}
