@@ -1,0 +1,60 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"dIfzjObcB0\",\"type\":\"onboarding\",\"data\":{\"onboarding_name\":\"Replacement\",\"col\":12}},{\"id\":\"CBpnmC7Js_\",\"type\":\"paragraph\",\"data\":{\"text\":\"<span class=\\\"h4\\\">shortcuts</span>\",\"col\":12}},{\"id\":\"NWMiio9z5O\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Search Item Button\",\"col\":3}},{\"id\":\"GYxDezGptw\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Replacement\",\"col\":3}},{\"id\":\"fGXcB4uchw\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"item\",\"col\":3}},{\"id\":\"gF0FExrqge\",\"type\":\"quick_list\",\"data\":{\"quick_list_name\":\"Replacement List\",\"col\":4}}]",
+ "creation": "2024-02-05 08:10:21.200406",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "change",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "Replacement Doc",
+ "links": [],
+ "modified": "2024-02-05 13:25:37.782920",
+ "modified_by": "Administrator",
+ "module": "Replacement",
+ "name": "Replacement Doc",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "Home",
+ "public": 1,
+ "quick_lists": [
+  {
+   "document_type": "Replacement",
+   "label": "Replacement List",
+   "quick_list_filter": "[]"
+  }
+ ],
+ "roles": [],
+ "sequence_id": 23.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Replacement",
+   "link_to": "Replacement",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "New",
+   "label": "Search Item Button",
+   "link_to": "Replacement",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "item",
+   "link_to": "Item",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ],
+ "title": "Replacement Doc"
+}
