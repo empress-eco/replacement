@@ -1,12 +1,12 @@
 <div align="center">
-![Project Logo](https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png
-</div>
+<img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80">
 
 Replacement is a dynamic and user-friendly tool designed to revolutionize the management of spare parts and pharmacy items. Built with the needs of businesses in mind, this tool allows you to efficiently manage your inventory with ease and precision.
 
-- [Documentation](https://grow.empress.eco/)
-- [Report a Bug](https://github.com/empress-eco/replacement/issues)
-- [Request a Feature](https://github.com/empress-eco/replacement/issues)
+[Documentation](https://grow.empress.eco/) | [Report a Bug](https://github.com/empress-eco/replacement/issues) | [Request a Feature](https://github.com/empress-eco/replacement/issues)
+
+</div>
+
 
 ## About The Project
 
